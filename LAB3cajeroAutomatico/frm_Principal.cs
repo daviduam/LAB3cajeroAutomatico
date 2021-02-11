@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using LAB3cajeroAutomatico.Clase;
-
+//ANDRES MONESTEL
 namespace LAB3cajeroAutomatico
 {
     public partial class frm_Principal : Form

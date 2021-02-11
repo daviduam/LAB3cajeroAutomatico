@@ -11,6 +11,7 @@ using LAB3cajeroAutomatico.Clase;
 
 namespace LAB3cajeroAutomatico
 {
+    //Comentario prueba Marvin.
     public partial class frm_Principal : Form
     {
 
